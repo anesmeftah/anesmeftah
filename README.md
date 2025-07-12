@@ -35,9 +35,13 @@ Linear Algebra | Probability | Statistics | Calculus
 ## 🚀 Projects
 
 Here are some of my favorite projects:
-[Ecommerce Analysis](https://github.com/anesmeftah/Ecommerce-Analysis)
-[Deep learning](https://github.com/anesmeftah/deep-learning-roadmap)
-[Location Appartement](https://github.com/anesmeftah/locationappartement-project)
+
+-[Ecommerce Analysis](https://github.com/anesmeftah/Ecommerce-Analysis)
+
+-[Deep learning](https://github.com/anesmeftah/deep-learning-roadmap)
+
+-[Location Appartement](https://github.com/anesmeftah/locationappartement-project)
+
 ---
 
 ## 📫 Contact Me
