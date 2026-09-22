@@ -16,7 +16,7 @@ algorithms.
 
 ## Currently Exploring
 
-Tiny IBP Verifier
+IBP Verifier
 
 Learning α,β-CROWN
 
