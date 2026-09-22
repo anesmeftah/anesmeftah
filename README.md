@@ -1,6 +1,6 @@
 # Anas Meftah
 
-Building reliable machine learning systems.
+Making AI reliable, one bound at a time.
 
 I enjoy understanding how neural networks work internally rather than
 only using them. My current work focuses on neural network verification,
