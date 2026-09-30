@@ -12,7 +12,7 @@ algorithms.
 - Neural Network Verification
 - Robust Machine Learning
 - Deep Learning
-- Statistical Machine Learning
+- Statistical Learning
 
 ## Currently Exploring
 
